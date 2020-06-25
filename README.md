@@ -4,7 +4,7 @@
 `Spam.py` is for spamming where the user has to manually select the website and the target.
 `SpamBot.py` is for spamming where the user only has to enter the name of the target and the script will spam on it's own (Basically, `SpamBot.py` is more automated than `Spam.py`).
 
-** By default, `SpamBot.py` spams WhatsApp. And uses Microsoft Edge as web browser**
+** By default, `SpamBot.py` spams WhatsApp. And uses Microsoft Edge as web browser **
 
 To run `Spam.py`, perform the following steps:
 * Run the script.
